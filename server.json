@@ -1,0 +1,735 @@
+[{
+	"name": "http://frontier.ulakbim.gov.tr",
+	"location": {
+		"x": 39.9117,
+		"y": 32.8403
+	}
+},
+{
+	"name": "http://F01-010-116-e.gridka.de",
+	"location": {
+		"x": 49.0047,
+		"y": 8.3858
+	}
+},
+{
+	"name": "http://uscms1-se.fltech-grid3.fit.edu",
+	"location": {
+		"x": 28.0718,
+		"y": -80.624
+	}
+},
+{
+	"name": "http://io.hep.kbfi.ee",
+	"location": {
+		"x": 59.0,
+		"y": 26.0
+	}
+},
+{
+	"name": "http://cclcgcms01.in2p3.fr",
+	"location": {
+		"x": 45.7655,
+		"y": 4.8755
+	}
+},
+{
+	"name": "http://squid04.pic.es",
+	"location": {
+		"x": 40.0,
+		"y": -4.0
+	}
+},
+{
+	"name": "http://fs1.accre.vanderbilt.edu",
+	"location": {
+		"x": 36.1473,
+		"y": -86.777
+	}
+},
+{
+	"name": "http://squid1.ppgrid1.rhul.ac.uk",
+	"location": {
+		"x": 51.4167,
+		"y": -0.5667
+	}
+},
+{
+	"name": "http://cache02.hep.wisc.edu",
+	"location": {
+		"x": 43.0761,
+		"y": -89.4104
+	}
+},
+{
+	"name": "http://frontiercache.esc.qmul.ac.uk",
+	"location": {
+		"x": 54.0,
+		"y": -2.0
+	}
+},
+{
+	"name": "http://red-squid1.unl.edu",
+	"location": {
+		"x": 40.82,
+		"y": -96.6806
+	}
+},
+{
+	"name": "http://mirror.hep.by",
+	"location": {
+		"x": 53.0,
+		"y": 28.0
+	}
+},
+{
+	"name": "http://higgs.fis.cinvestav.mx",
+	"location": {
+		"x": 19.4342,
+		"y": -99.1386
+	}
+},
+{
+	"name": "http://t2-cms-db1.desy.de",
+	"location": {
+		"x": 53.55,
+		"y": 10.0
+	}
+},
+{
+	"name": "http://nat005.gla.scotgrid.ac.uk",
+	"location": {
+		"x": 55.8333,
+		"y": -4.25
+	}
+},
+{
+	"name": "http://squid2.cmsaf.mit.edu",
+	"location": {
+		"x": 42.3646,
+		"y": -71.1028
+	}
+},
+{
+	"name": "http://cms-xen19.fnal.gov",
+	"location": {
+		"x": 41.8392,
+		"y": -88.3612
+	}
+},
+{
+	"name": "http://frontier.sprace.org.br",
+	"location": {
+		"x": -10.0,
+		"y": -55.0
+	}
+},
+{
+	"name": "http://cluster144.knu.ac.kr",
+	"location": {
+		"x": 37.0,
+		"y": 127.5
+	}
+},
+{
+	"name": "http://proxy-1.t2.ucsd.edu",
+	"location": {
+		"x": 32.8807,
+		"y": -117.2359
+	}
+},
+{
+	"name": "http://squid.ihepa.ufl.edu",
+	"location": {
+		"x": 29.6694,
+		"y": -82.3572
+	}
+},
+{
+	"name": "http://cmsfrontier4.fnal.gov",
+	"location": {
+		"x": 41.8392,
+		"y": -88.3612
+	}
+},
+{
+	"name": "http://squid-cms.lip.pt",
+	"location": {
+		"x": 38.7167,
+		"y": -9.1333
+	}
+},
+{
+	"name": "http://cmsfrontier2.fnal.gov",
+	"location": {
+		"x": 41.8392,
+		"y": -88.3612
+	}
+},
+{
+	"name": "http://cms-gate.kipt.kharkov.ua",
+	"location": {
+		"x": 49.8407,
+		"y": 24.0305
+	}
+},
+{
+	"name": "http://cmscache00.hep.ph.ic.ac.uk",
+	"location": {
+		"x": 51.5142,
+		"y": -0.0931
+	}
+},
+{
+	"name": "http://grinr06.inr.troitsk.ru",
+	"location": {
+		"x": 54.0979,
+		"y": 61.5773
+	}
+},
+{
+	"name": "http://grow-prod.its.uiowa.edu",
+	"location": {
+		"x": 41.664,
+		"y": -91.5447
+	}
+},
+{
+	"name": "http://cclcgcms02.in2p3.fr",
+	"location": {
+		"x": 45.7655,
+		"y": 4.8755
+	}
+},
+{
+	"name": "http://cmsfrontier3.fnal.gov",
+	"location": {
+		"x": 41.8392,
+		"y": -88.3612
+	}
+},
+{
+	"name": "http://pccms26.ba.infn.it",
+	"location": {
+		"x": 41.1333,
+		"y": 16.85
+	}
+},
+{
+	"name": "http://lcgsquid01.gridpp.rl.ac.uk",
+	"location": {
+		"x": 51.7,
+		"y": -1.35
+	}
+},
+{
+	"name": "http://cmsrm-frontier.roma1.infn.it",
+	"location": {
+		"x": 42.8333,
+		"y": 12.8333
+	}
+},
+{
+	"name": "http://cmssq1-fzk.gridka.de",
+	"location": {
+		"x": 49.0047,
+		"y": 8.3858
+	}
+},
+{
+	"name": "http://sbgce2.in2p3.fr",
+	"location": {
+		"x": 48.6004,
+		"y": 7.7874
+	}
+},
+{
+	"name": "http://t3frontier.psi.ch",
+	"location": {
+		"x": 47.5278,
+		"y": 8.215
+	}
+},
+{
+	"name": "http://squid03.pic.es",
+	"location": {
+		"x": 40.0,
+		"y": -4.0
+	}
+},
+{
+	"name": "http://muon.grid.kiae.ru",
+	"location": {
+		"x": 55.7522,
+		"y": 37.6156
+	}
+},
+{
+	"name": "http://grid-squid2.physik.rwth-aachen.de",
+	"location": {
+		"x": 50.7708,
+		"y": 6.1053
+	}
+},
+{
+	"name": "http://hepcms-hn.umd.edu",
+	"location": {
+		"x": 38.8922,
+		"y": -76.7681
+	}
+},
+{
+	"name": "http://pcncp04.ncp.edu.pk",
+	"location": {
+		"x": 33.69,
+		"y": 73.0551
+	}
+},
+{
+	"name": "http://hurr.tamu.edu",
+	"location": {
+		"x": 30.59,
+		"y": -96.3027
+	}
+},
+{
+	"name": "http://cmsfrontier1.fnal.gov",
+	"location": {
+		"x": 41.8392,
+		"y": -88.3612
+	}
+},
+{
+	"name": "http://squid.cmsaf.mit.edu",
+	"location": {
+		"x": 42.3646,
+		"y": -71.1028
+	}
+},
+{
+	"name": "http://144.16.111.46",
+	"location": {
+		"x": 28.6,
+		"y": 77.2
+	}
+},
+{
+	"name": "http://cmsvobox.lcg.cscs.ch",
+	"location": {
+		"x": 46.036,
+		"y": 8.9186
+	}
+},
+{
+	"name": "http://hepsquid02.pp.rl.ac.uk",
+	"location": {
+		"x": 51.7,
+		"y": -1.35
+	}
+},
+{
+	"name": "http://t2-cms-db0.desy.de",
+	"location": {
+		"x": 53.55,
+		"y": 10.0
+	}
+},
+{
+	"name": "http://squid02.pic.es",
+	"location": {
+		"x": 40.0,
+		"y": -4.0
+	}
+},
+{
+	"name": "http://cmssquid.pi.infn.it",
+	"location": {
+		"x": 43.7167,
+		"y": 10.3833
+	}
+},
+{
+	"name": "http://frontier.iihe.ac.be",
+	"location": {
+		"x": 50.8333,
+		"y": 4.3333
+	}
+},
+{
+	"name": "http://frontier02.hep.wisc.edu",
+	"location": {
+		"x": 43.0761,
+		"y": -89.4104
+	}
+},
+{
+	"name": "http://squid01.grid.sinica.edu.tw",
+	"location": {
+		"x": 23.5,
+		"y": 121.0
+	}
+},
+{
+	"name": "http://grid-squid1.physik.rwth-aachen.de",
+	"location": {
+		"x": 50.7708,
+		"y": 6.1053
+	}
+},
+{
+	"name": "http://squid02.grid.sinica.edu.tw",
+	"location": {
+		"x": 23.5,
+		"y": 121.0
+	}
+},
+{
+	"name": "http://cmst0frontier.cern.ch",
+	"location": {
+		"x": 46.1956,
+		"y": 6.1481
+	}
+},
+{
+	"name": "http://squid01.ncg.ingrid.pt",
+	"location": {
+		"x": 38.7167,
+		"y": -9.1333
+	}
+},
+{
+	"name": "http://squid-cms-3.cr.cnaf.infn.it",
+	"location": {
+		"x": 44.4833,
+		"y": 11.3333
+	}
+},
+{
+	"name": "http://squid.rcac.purdue.edu",
+	"location": {
+		"x": 40.4249,
+		"y": -86.9162
+	}
+},
+{
+	"name": "http://cmssq2-fzk.gridka.de",
+	"location": {
+		"x": 49.0047,
+		"y": 8.3858
+	}
+},
+{
+	"name": "http://squid.lnl.infn.it",
+	"location": {
+		"x": 45.3333,
+		"y": 11.9667
+	}
+},
+{
+	"name": "http://grid158.kfki.hu",
+	"location": {
+		"x": 47.5,
+		"y": 19.0833
+	}
+},
+{
+	"name": "http://grid02.physics.uoi.gr",
+	"location": {
+		"x": 39.6675,
+		"y": 20.8508
+	}
+},
+{
+	"name": "http://lcgcalali.ciemat.es",
+	"location": {
+		"x": 40.4086,
+		"y": -3.6922
+	}
+},
+{
+	"name": "http://F01-010-115-e.gridka.de",
+	"location": {
+		"x": 49.0047,
+		"y": 8.3858
+	}
+},
+{
+	"name": "http://cmst0frontier1.cern.ch",
+	"location": {
+		"x": 46.1956,
+		"y": 6.1481
+	}
+},
+{
+	"name": "http://grid01.physics.uoi.gr",
+	"location": {
+		"x": 39.6675,
+		"y": 20.8508
+	}
+},
+{
+	"name": "http://ruhex-squid.rutgers.edu",
+	"location": {
+		"x": 40.5516,
+		"y": -74.4637
+	}
+},
+{
+	"name": "http://hepgums.colorado.edu",
+	"location": {
+		"x": 40.0878,
+		"y": -105.3735
+	}
+},
+{
+	"name": "http://ingrid-monbox.cism.ucl.ac.be",
+	"location": {
+		"x": 50.8833,
+		"y": 4.7
+	}
+},
+{
+	"name": "http://squid-cms-2.cr.cnaf.infn.it",
+	"location": {
+		"x": 44.4833,
+		"y": 11.3333
+	}
+},
+{
+	"name": "http://cmscache01.grid.hep.ph.ic.ac.uk",
+	"location": {
+		"x": 51.5142,
+		"y": -0.0931
+	}
+},
+{
+	"name": "http://squid1.cmsaf.mit.edu",
+	"location": {
+		"x": 42.3646,
+		"y": -71.1028
+	}
+},
+{
+	"name": "http://squid2.ihepa.ufl.edu",
+	"location": {
+		"x": 29.6694,
+		"y": -82.3572
+	}
+},
+{
+	"name": "http://cms-vo.polgrid.pl",
+	"location": {
+		"x": 51.75,
+		"y": 19.4667
+	}
+},
+{
+	"name": "http://grid009.gridc.lip.pt",
+	"location": {
+		"x": 39.5,
+		"y": -8.0
+	}
+},
+{
+	"name": "http://squid01.pic.es",
+	"location": {
+		"x": 40.0,
+		"y": -4.0
+	}
+},
+{
+	"name": "http://cofin2003.ba.infn.it",
+	"location": {
+		"x": 41.1333,
+		"y": 16.85
+	}
+},
+{
+	"name": "http://vobox.ihep.ac.cn",
+	"location": {
+		"x": 35.0,
+		"y": 105.0
+	}
+},
+{
+	"name": "http://cmssquid2.pi.infn.it",
+	"location": {
+		"x": 43.7167,
+		"y": 10.3833
+	}
+},
+{
+	"name": "http://lcgsqd.jinr.ru",
+	"location": {
+		"x": 56.7333,
+		"y": 37.1667
+	}
+},
+{
+	"name": "http://cmsfrontier.marie.hellasgrid.gr",
+	"location": {
+		"x": 39.0,
+		"y": 22.0
+	}
+},
+{
+	"name": "http://lcgsquid02.gridpp.rl.ac.uk",
+	"location": {
+		"x": 51.7,
+		"y": -1.35
+	}
+},
+{
+	"name": "http://fs2.accre.vanderbilt.edu",
+	"location": {
+		"x": 36.1473,
+		"y": -86.777
+	}
+},
+{
+	"name": "http://hepsquid01.pp.rl.ac.uk",
+	"location": {
+		"x": 51.7,
+		"y": -1.35
+	}
+},
+{
+	"name": "http://silo3.hip.helsinki.fi",
+	"location": {
+		"x": 60.1756,
+		"y": 24.9342
+	}
+},
+{
+	"name": "http://ndcms.crc.nd.edu",
+	"location": {
+		"x": 41.7007,
+		"y": -86.2501
+	}
+},
+{
+	"name": "http://farmsrv.ts.infn.it",
+	"location": {
+		"x": 45.6486,
+		"y": 13.78
+	}
+},
+{
+	"name": "http://cms-dm.cac.cornell.edu",
+	"location": {
+		"x": 42.4485,
+		"y": -76.4804
+	}
+},
+{
+	"name": "http://osg.rcac.purdue.edu",
+	"location": {
+		"x": 40.4249,
+		"y": -86.9162
+	}
+},
+{
+	"name": "http://squid-cms-1.cr.cnaf.infn.it",
+	"location": {
+		"x": 44.4833,
+		"y": 11.3333
+	}
+},
+{
+	"name": "http://cms-squid.gridpp.rl.ac.uk",
+	"location": {
+		"x": 51.7,
+		"y": -1.35
+	}
+},
+{
+	"name": "http://hugin.hpcc.ttu.edu",
+	"location": {
+		"x": 33.61,
+		"y": -101.8213
+	}
+},
+{
+	"name": "http://umiss005.hep.olemiss.edu",
+	"location": {
+		"x": 34.3647,
+		"y": -89.5375
+	}
+},
+{
+	"name": "http://agent.tier3.ucdavis.edu",
+	"location": {
+		"x": 38.4829,
+		"y": -121.6398
+	}
+},
+{
+	"name": "http://se1.itep.ru",
+	"location": {
+		"x": 55.7522,
+		"y": 37.6156
+	}
+},
+{
+	"name": "http://red-squid2.unl.edu",
+	"location": {
+		"x": 40.82,
+		"y": -96.6806
+	}
+},
+{
+	"name": "http://osg-gate.rice.edu",
+	"location": {
+		"x": 29.7176,
+		"y": -95.4188
+	}
+},
+{
+	"name": "http://cache01.hep.wisc.edu",
+	"location": {
+		"x": 43.0761,
+		"y": -89.4104
+	}
+},
+{
+	"name": "http://cmsgrid.oeaw.ac.at",
+	"location": {
+		"x": 47.3333,
+		"y": 13.3333
+	}
+},
+{
+	"name": "http://glite-mon.ceres.auckland.ac.nz",
+	"location": {
+		"x": -36.8667,
+		"y": 174.7667
+	}
+},
+{
+	"name": "http://cmst0frontier2.cern.ch",
+	"location": {
+		"x": 46.1956,
+		"y": 6.1481
+	}
+},
+{
+	"name": "http://lcg00114.grid.sinica.edu.tw",
+	"location": {
+		"x": 23.5,
+		"y": 121.0
+	}
+},
+{
+	"name": "http://frontier01.hep.wisc.edu",
+	"location": {
+		"x": 43.0761,
+		"y": -89.4104
+	}
+},
+{
+	"name": "http://lcg45.sinp.msu.ru",
+	"location": {
+		"x": 60.0,
+		"y": 100.0
+	}
+}]
